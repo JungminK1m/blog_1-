@@ -21,7 +21,6 @@
         let data = {
             "title": $("#title").val(),
             "content": $("#content").val()
-            // "thumbnail": $("#thumbnail").val()
         };
 
         $.ajax({
