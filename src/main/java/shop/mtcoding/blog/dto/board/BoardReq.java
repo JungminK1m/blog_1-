@@ -17,5 +17,6 @@ public class BoardReq {
     public static class BoardUpdateReqDto {
         private String title;
         private String content;
+        private String thumbnail;
     }
 }
